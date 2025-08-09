@@ -1,13 +1,5 @@
 # CU-PROJECT
-Got it — I’ll rewrite your R Markdown with:
 
-* **The same visualizations you already had** (no extra charts)
-* A **clearer, friendlier explanation** for each pipeline step so it’s easy to follow and replicate
-* Ready-to-use in **GitHub** as a `.Rmd` report
-
-Here’s your improved version:
-
----
 
 ````markdown
 ---
